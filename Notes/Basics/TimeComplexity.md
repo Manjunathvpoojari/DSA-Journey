@@ -27,6 +27,13 @@ Time complexity tells how fast an algorithm runs as input size increases.
 ### 🟡 O(n) — Linear Time
 - Time increases with input
 
+## 🧪 Example Code (O(n))
+
+```java
+for(int i = 0; i < arr.length; i++) {
+    // runs n times
+}
+
 ### 🔵 O(log n) — Logarithmic Time
 - Problem size reduces each step
 
