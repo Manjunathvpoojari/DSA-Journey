@@ -17,5 +17,10 @@ This is helpful for everyone who wants to learn DSA from scratch
 - 3. Palindrome checker
 - 4. Frequency character checker
 - 5. Duplicates in array 
+- 6. Reverse through slice 
+- 7. Gcd and also LCM through GCD approach
+- 8. Prime numbers approach through sieve function further aided to Goldbach and twin numbers
+- 9. Armstrong number
+- 10. Perfect number
 ---
 
