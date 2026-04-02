@@ -8,6 +8,7 @@
 
 ## 🧠 About This Repository
 This repository contains my daily practice of Data Structures & Algorithms from platforms like LeetCode, HackerRank, Codeforces, and CodeChef and also notes for beginners to learn dsa.
+This repo also focuses on my upskilling journey from DSA,system design and researcn of new trend 📈 in tech world 
 This is helpful for everyone who wants to learn DSA from scratch 
 ---
 
